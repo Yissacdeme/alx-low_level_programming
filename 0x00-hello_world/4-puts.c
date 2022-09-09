@@ -1,8 +1,7 @@
 
-/*
- 
+/* 
  * File:hello puts  
- 
+ * done by yisak
  */
 
 #include <stdio.h>
