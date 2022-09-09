@@ -1,9 +1,8 @@
 
 /*
- 
- * File:hello puts
- 
+ * File:hello puts  
  */
+
 #include <stdio.h>
 /**
  * main - Entry point
