@@ -4,7 +4,7 @@
  *
  *   * Auth: Brennan D Baraban
  *
- *    */
+ */
 
 #include <stdlib.h>
 #include <time.h>
@@ -19,7 +19,7 @@
  *
  *     * Return: Always 0.
  *
- *     */
+ */
 
 int main(void)
 
