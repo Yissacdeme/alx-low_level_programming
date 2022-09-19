@@ -9,7 +9,7 @@
  * Return: generated password
  */
 
-int main(void);
+int main(void)
 {
 	char c;
 	int x;
@@ -23,4 +23,5 @@ int main(void);
 	}
 	putchar(2772 - x);
 
-	return (0)
+	return (0);
+}
