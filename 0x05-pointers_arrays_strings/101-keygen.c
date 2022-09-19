@@ -9,7 +9,7 @@
  * Return: generated password
  */
 
-int main(void)
+int main()
 {
 	char c;
 	int x;
