@@ -1,8 +1,8 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef main_H
+#define main_H
 
 /*
- * File: holberton.h
+ * File: main.h
  * Auth: Firdaus
  * Desc: Header file containing the prototypes of all functions
  *       included in the static library libholberton.a.
